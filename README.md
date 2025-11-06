@@ -25,4 +25,5 @@ To create Student Enrollment System software that will meet the needs of the app
 <img width="1067" height="819" alt="image" src="https://github.com/user-attachments/assets/2061155b-5466-4fb0-b82d-c1e576dfe401" />
 
 # RESULT:
-To draw UML diagram for STUDENT ENROLLMENT SYSTEM
+Thus the UML diagram for STUDENT ENROLLMENT SYSTEM is completed
+
